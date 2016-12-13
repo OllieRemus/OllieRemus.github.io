@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Struggles with Github"
-date:   2016-12-13 00:00:36 +0000
+date:   2016-12-12 19:00:37 -0500
 ---
 
 
